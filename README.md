@@ -1,3 +1,5 @@
-# generador_de_contrasenias
+# Generador de contraseñas
 
-A new Flutter project.
+Este es un generador de contraseñas básico creado con Flutter
+
+
